@@ -1,0 +1,105 @@
+file://G:\	(1个文件夹,0个文件, 0 字节, 4.35 GB 在总计中.)
+└─工具软件	(4个文件夹,1个文件, 209.12 MB, 4.35 GB 在总计中.)
+│本机驱动程序.rar	209.12 MB
+├─办公软件	(0个文件夹,1个文件, 934.75 MB, 934.75 MB 在总计中.)
+│MicrosoftOffice2007.iso	934.75 MB
+├─工具软件	(6个文件夹,23个文件, 1.20 GB, 2.08 GB 在总计中.)
+││3dBody人体解剖软件.rar	22.18 MB
+││Daemon Tools.zip	7.29 MB
+││FinalData数据恢复2.01.1028绿色破解版.rar	1.42 MB
+││IceSword122cn.rar	2.09 MB
+││NeroBurningROM9.4.13.2c简体中文精简免激活破解版.rar	38.65 MB
+││picpick_v215.zip	1.23 MB
+││WorldMap.rar	14.90 MB
+││wrar.exe	129.00 KB
+││超级兔子魔法设置.exe	14.89 MB
+││格律助手.rar	1.76 MB
+││格式工厂.exe	55.50 KB
+││机械公差速查软件.exe	6.47 MB
+││极品列车时刻表2009.06.21.rar	1.19 MB
+││简明世界历史地图.exe	23.66 MB
+││简明中国历史地图.CHM	30.87 MB
+││截图工具.exe	16.00 KB
+││金山词霸2009牛津版SP3免激活破解安装版.rar	484.28 MB
+││精灵虚拟光驱DaemonTools4.30.4官方中文版.zip	7.29 MB
+││目录列表工具.exe	220.00 KB
+││腾讯QQ.exe	28.69 MB
+││小巧的MD5 SHA1计算工具支持比较值V1.1.rar	148.13 KB
+││亿图专业流程图网络图制作工具.rar	4.79 MB
+││韵律大师.rar	539.24 MB
+│├─播放器	(0个文件夹,5个文件, 74.15 MB, 74.15 MB 在总计中.)
+││flashplayer10_1_p2_activex_121709.exe	2.34 MB
+││QuickTimeInstaller.exe	30.99 MB
+││ScenicPlayerCSF文件播放器V2.08.3174绿色中文版.rar	11.37 MB
+││SWFFlash播放器SWFFlashPlayerV9.0.124.1.exe	1.04 MB
+││暴风影音.exe	28.41 MB
+│├─电子书制作	(0个文件夹,7个文件, 450.18 MB, 450.18 MB 在总计中.)
+││Acrobat7.0PDF电子书制作工具.rar	210.20 MB
+││adobeacrabat电子书制作.rar	213.83 MB
+││ebookPKe书部落电子书制作器2.1.7.exe	11.25 MB
+││eBookWorkshope书工场V1.5绿色免安装版及39种经典风格.rar	2.26 MB
+││EXE电子书制作工具.rar	1.74 MB
+││电子书制作生成器2009可生成带密码口令EXE电子书简体中文免费安装版.rar	4.07 MB
+││绿色软件制作大全第一辑EXE电子书教你如何制作绿色软件.rar	6.83 MB
+│├─格式转换	(0个文件夹,18个文件, 151.07 MB, 151.07 MB 在总计中.)
+││ApPDFtoImageConverter将PDF文件转化为图片v4.1.rar	1.92 MB
+││ApPDFtoImageConverter将PDF文件转化为图片v4.1注册机.rar	96.50 KB
+││FFSetup190.exe	54.50 KB
+││FlashSWF格式文件转化为各种视频文件的软件.rar	2.01 MB
+││gs851w32.rar	29.43 MB
+││IncrediToolsPPTtoFlashStudio1.2┊英文破解版┊PowerPoint文件PPT转FLASH.rar	23.74 MB
+││Pdf2all一款功能强大的转换器V5.44汉化绿色破解.exe	148.00 KB
+││PDFtoWord.rar	499.72 KB
+││PDF转换器PDF2Al.l5.44d破解版.rar	17.28 MB
+││pdf转图片工具_APPDFtoIMAGEBatchConverter┆V4.1汉化版.exe	102.00 KB
+││PowerPoint Slide Show Converter.rar	3.00 MB
+││SaveAsPDFandXPS.rar	534.08 KB
+││SWF格式flash动画转AVIMP4格式视频软件ZealotSWF2VideoStudio.rar	2.91 MB
+││多媒体格式转化压缩软件视频转换专家V5.0特别版.rar	16.92 MB
+││免费的PPT转Flash工具-iSpringFree4.1绿色版Update.exe	18.70 MB
+││视频转化大师8.5云龙绿化版.rar	15.94 MB
+││视频转换大师.zip	14.26 MB
+││真正超强PDF转Word软件ePDFV2.5绿色汉化版99.9原汁原味排版转换.rar	3.54 MB
+│├─文件粉碎	(0个文件夹,10个文件, 14.02 MB, 14.02 MB 在总计中.)
+││FileShredder.exe	334.00 KB
+││fmgr文件管理大师Bulid83简体中文绿色特别版绝对加密和粉碎.rar	3.63 MB
+││超级文件粉碎机2009绿色免费版.rar	323.93 KB
+││高色文件粉碎器.exe	68.00 KB
+││木马文件粉碎机V3.2.exe	42.00 KB
+││天盾加密软件2009绿色黄金版文件加密+文件粉碎+系统设置.rar	2.24 MB
+││文件粉碎机FilePulverizer4.2.exe	68.00 KB
+││文件粉碎机系列软件安装包.exe	295.00 KB
+││文件夹加密超级大师V15.86支持文件加密文件夹伪装磁盘保护数据粉碎简体中文版.zip	4.20 MB
+││文件密码箱2009C集文件加密_压缩_分割合并_粉碎等中文绿色版.rar	2.84 MB
+│├─下载器	(0个文件夹,5个文件, 28.32 MB, 28.32 MB 在总计中.)
+││iku_setup.exe	5.24 MB
+││iTudou_2.4.11.0.exe	5.28 MB
+││KuGou2010.exe	6.05 MB
+││Thunder5.9.13.1222.exe	11.27 MB
+││网络相册下载器.rar	487.54 KB
+│└─阅读器	(2个文件夹,11个文件, 56.46 MB, 179.36 MB 在总计中.)
+││CAJViewer.rar	2.50 MB
+││docviewer.zip	1.45 MB
+││eREAD8.0Setup0113.exe	10.46 MB
+││eREAD电子书阅读器6.0俺要下载专版多功能的电子书阅读器.rar	3.10 MB
+││PDFDJVU阅读器BookrMod最新20090709版.rar	2.78 MB
+││STDUViewer多功能电子阅读器兼容DjVuPDFTIFF等格式v1.5.261.rar	2.36 MB
+││UniversalViewer.zip	4.65 MB
+││WinDjView0.43(divu阅读器).zip	507.74 KB
+││超星阅读器4.0最新版（破解版）.exe	10.76 MB
+││超星阅读器完美破解版.rar	6.48 MB
+││制作exe文件相册.rar	11.43 MB
+│├─Adobe Reader	(0个文件夹,2个文件, 44.88 MB, 44.88 MB 在总计中.)
+││Adobe Reader9.1.0.exe	42.83 MB
+││Adobe Reader安全补丁1.0.msp	2.05 MB
+│└─超星阅读器	(0个文件夹,2个文件, 78.02 MB, 78.02 MB 在总计中.)
+│超星OCR文字识别模块完全版.rar	33.88 MB
+│超星阅读器4.0简体中文增强版与OCR文字识别模块完全版.zip	44.14 MB
+├─工控软件	(1个文件夹,0个文件, 0 字节, 530.33 MB 在总计中.)
+│└─组态王	(0个文件夹,2个文件, 530.33 MB, 530.33 MB 在总计中.)
+│组态王6.51中文版KINGVIEW-工业通用组态软件.iso	526.60 MB
+│组态王6.51完全破解.rar	3.73 MB
+└─视频编辑	(0个文件夹,3个文件, 650.43 MB, 650.43 MB 在总计中.)
+Adobe.Premiere.Prov7.0.C522视频编辑.rar	291.04 MB
+AdobePremiereProCS3完美者特别优化版受到视频爱好者好评的DV编辑工具.rar	106.56 MB
+AfterEffectsPro7.0完整绿色专业版视频编辑.rar	252.83 MB
